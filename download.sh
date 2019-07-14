@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOST="10.1.10.200"
+HOST=$1
 
 #PLATFORM="Win32"
 #PLATFORM="Win64"
